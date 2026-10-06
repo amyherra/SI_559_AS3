@@ -1,6 +1,6 @@
-# PaceVoice — Accessible Voice Assistant Prototype
+Accessible Voice Assistant Prototype
 
-PaceVoice is an interactive prototype based directly on the proposed solution in the assignment.
+Interactive prototype based directly on the proposed solution in the assignment.
 
 ## The three core parts of the proposed solution
 
